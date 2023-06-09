@@ -2,18 +2,19 @@
 ## My name is Angelo Foresti
 
 - 🌱 I’m currently learning PHP and NODE
+- 😄 Looking foward to work with backend development
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-## Estou aprendendo
+## I´m learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href="https://www.instagram.com/forestiangelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
